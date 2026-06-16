@@ -13,7 +13,7 @@
 
 ## Current Progress
 
-- [x] Information Security
+- [ ] Information Security
 - [ ] System Security
 - [ ] Network Security
 - [ ] Web Application Security
